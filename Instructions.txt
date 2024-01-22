@@ -1,0 +1,7 @@
+Work for Lab42
+---------------
+
+ -- Create a form with a dropdown (select) for platforms (Microsoft and Linux) and a textarea for entering a URL.
+ -- On form submission, generate a set of random parameters based on the selected platform.
+ -- Append these parameters to the provided URL without overriding existing parameters.
+ -- Display the resulting URL.
